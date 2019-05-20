@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\bin\x64\Debug\SpeachSit232.exe.config
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\bin\x64\Debug\SpeachSit232.exe
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\bin\x64\Debug\SpeachSit232.pdb
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\obj\x64\Debug\SpeachSit232.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\obj\x64\Debug\SpeachSit232.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\obj\x64\Debug\SpeachSit232.csproj.CopyComplete
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\obj\x64\Debug\SpeachSit232.exe
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\obj\x64\Debug\SpeachSit232.pdb
+C:\Users\domin\source\repos\SpeachSit232\SpeachSit232\bin\x64\Debug\Speech.Synthesis.Core.dll
